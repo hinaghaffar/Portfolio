@@ -1,6 +1,23 @@
 footer {
     position: fixed;
     bottom: 0;
-    width: 100%
+    width: 100%;
     height: 6%;
+}
+
+.container {
+    margin-top: 3%;
+    padding-top: 3%;
+}
+
+.title {
+    width: 100%;
+    font-family: 'Roboto Mono', monospace;
+    border-bottom: 1px solid rgb(39, 8, 8);
+    background-image: linear-gradient(rgb(136, 245, 136), white );
+}
+
+body {
+    font-family: 'Ubuntu', sans-serif;
+    background-image: pink;
 }
