@@ -1,1 +1,2 @@
-# Portfolio
+I created this portfolio from scratch using html, css, google fonts and bootstrap.
+I started by creathing the github repo and cloning it to my homework directory. I then created a portfolio folder within my homework directory inside that I created index.html, portfolio.html, contact.html files and and assests folder in which I created a style.css file. I started my code with html and added bootstap components and edited according to my requirements, once done I copied and pasted the code into my portfolio.html and contact.html files and changed some of the bootstap components once again according to requirements. throughout the process I edited my style.css file.
